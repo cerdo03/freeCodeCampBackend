@@ -1,0 +1,19 @@
+{
+	"name": "fcc-learn-npm-package-json",
+    "author": "Surya",
+    "description": "I am learning express js",
+    "keywords": ["descriptive", "related", "words", "freecodecamp"],
+    "version": "1.0.0",
+    "license": "MIT",
+	"dependencies": {
+        "express": "^4.14.0" 
+	},
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://idontknow/todo.git"
+	}
+}
